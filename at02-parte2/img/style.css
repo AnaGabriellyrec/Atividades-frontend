@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+    font-family:cursive
+}
+#risco
+{
+    text-decoration: line-through;
+}
+.centro
+{
+    text-align: center;
+    color: rgb(245, 65, 20);
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 22px;
+    width: 250px;
+}
+h1{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(250, 89, 180);
+    width: 400px;
+    border-radius: 22px;
+    text-decoration: underline;
+}
+button{
+    width: 150px;
+    border-radius: 30px;
+    background-color: rgba(250, 89, 180, 0.708);
+    font-weight: bold;
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    margin-top: 12px;
+}
+
