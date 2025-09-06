@@ -1,0 +1,38 @@
+body{
+    background-color: #FEEBF6;
+}
+h1{
+    font-family:cursive;  
+    margin-bottom: -20px;
+    padding: 7px;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav{
+    background-color: #9109f96a;
+    display: block;
+    margin: auto;
+    border-radius: 22px;
+}
+nav ul{
+    list-style: none;
+    padding: 1px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+nav li{
+    margin: 5px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 2px;
+    
+}
+nav a:hover{
+    color: #687FE5;
+    font-weight: bold;
+}
